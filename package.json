@@ -2,7 +2,7 @@
   "name": "portfolio-react",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/portfolio-react",
+  "homepage": "https://c0939973.github.io/portfolio-react",
   "dependencies": {
     "framer-motion": "^10.12.16",
     "gh-pages": "^5.0.0",
@@ -18,8 +18,7 @@
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  }
-  ,
+  },
   "browserslist": {
     "production": [
       ">0.2%",
